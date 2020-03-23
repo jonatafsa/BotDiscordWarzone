@@ -1,0 +1,22 @@
+{
+  "name": "bot-cod",
+  "version": "1.0.0",
+  "description": "Projeto inicial do bot\r Versão 1.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.0.2",
+    "fs": "0.0.1-security",
+    "node": "^13.11.0",
+    "oc": "^0.48.7",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "serialize-json": "^1.0.3"
+  }
+}
